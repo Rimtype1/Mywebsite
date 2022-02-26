@@ -1,5 +1,22 @@
 <html>
   <head>
+		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+			#box1{
+				width: 800px;
+				height: 350px;
+				background-color:lightblue
+			}
+			#box2{
+				width: 600px;
+				height: 150px;
+			}
+			body{
+				background-color: pink;
+			}
+		</style>
+	</head>
+  <head>
     <title>การกำหนดรูปแบบตัวอักษร</title>
     <style>
       @font-face{

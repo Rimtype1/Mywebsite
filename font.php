@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("MiPancake.ttf");
+        src: url("DimsumDemo-Thin.otf");
       }
       #font1{
         font-family: "MyFont1";

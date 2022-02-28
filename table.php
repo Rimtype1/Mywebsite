@@ -48,9 +48,9 @@
       </tr>
       <tr>
         <td>6</td>
-        <td>ยิ่งคุณ รอดทิม</td>
-        <td>ขม</td>
-        <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
+        <td>พัฒนศักดิื พิกุลหอม</td>
+        <td>ฟิวส์</td>
+        <td><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/274011332_1075472816362717_767300655649876622_n.jpg?stp=dst-jpg_p206x206&_nc_cat=103&ccb=1-5&_nc_sid=aee45a&_nc_ohc=9jJQljd6cW0AX8pxS-V&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIgSkIXfB5DTrezqelkLTf0EeRdRNbjDcfabbM-HAFg8g&oe=624265D1" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
       </tr>
        </table>

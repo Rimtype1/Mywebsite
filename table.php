@@ -55,9 +55,27 @@
       </tr>
        </table>
   </body> 
+  <head>
+    <title>การกำหนดรูปแบบตัวอักษร</title>
+    <style>
+      @font-face{
+        font-family: "MyFont1";
+        src: url("ChocolateteehaypaiTEST.ttf");
+      }
+      @font-face{
+        font-family: "MyFont2";
+        src: url("DimsumDemo-Thin.otf");
+      }
+      #font1{
+        font-family: "MyFont1";
+      }
+      #font2{
+        font-family: "MyFont2";
+      }
+    </style>
+  </head>
   <body>
-		<div id="box1" >
-			<h1>ปล.ไม่ต้องกดทุกลิ้งนะครับ กดได้แต่ไม่ใช่นะครับหาไม่เจอ</h1>
-		</div>
-	</body>
+    <h1 id="font1">ปล.ไม่ต้องกดดูทุกลิ้งนะครับหาทวิตไม่เจอ</h1>
+    <h1 id="font2"></h1>
+  </body>
 </html>

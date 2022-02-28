@@ -35,15 +35,15 @@
       <tr>
         <td>4</td>
         <td>มหาตมะ คานธี</td>
-        <td>ขม</td>
+        <td>-</td>
         <td><img src="http://img.kapook.com/u/suttichai/a999995/mg9eflg9.jpg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
       </tr>
       <tr>
         <td>5</td>
-        <td>ยิ่งคุณ รอดทิม</td>
-        <td>ขม</td>
-        <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
+        <td>ดอนัลด์ จอห์น ทรัมป์</td>
+        <td>ทรัมป์</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/200px-Donald_Trump_official_portrait.jpg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
       </tr>
       <tr>
@@ -53,7 +53,11 @@
         <td><img src="https://asianwiki.com/images/e/e8/Song_Joong-Ki-p002.jpeg" width="130px"></td>
         <td><a href="https://twitter.com/sjk_kith?lang=en">twitter</a></td>
       </tr>
-      
-    </table>
+       </table>
   </body> 
+  <body>
+		<div id="box1" >
+			<h1>ปล.ไม่ต้องกดทุกลิ้งนะครับ กดได้แต่ไม่ใช่นะครับหาไม่เจอ</h1>
+		</div>
+	</body>
 </html>

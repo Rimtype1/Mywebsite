@@ -36,7 +36,7 @@
     </style>
   </head>
   <body>
-    <h1 id="font1">ควยพีหน้าพี</h1>
-    <h1 id="font2"></h1>
+    <h1 id="font1">น่ารักตุบุ</h1>
+    <h1 id="font2">ลองมองมาตรงนี้ดู</h1>
   </body>
 </html>
